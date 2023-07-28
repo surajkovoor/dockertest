@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  aspcorewebapp:
+    image: ${DOCKER_REGISTRY-}aspcorewebapp
+    build:
+      context: .
+      dockerfile: aspCoreWebApp/Dockerfile

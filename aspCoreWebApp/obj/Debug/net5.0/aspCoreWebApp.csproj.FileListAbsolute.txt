@@ -1,0 +1,9 @@
+C:\Users\sachin.yadav\source\repos\aspCoreWebApp\aspCoreWebApp\obj\Debug\net5.0\aspCoreWebApp.csproj.AssemblyReference.cache
+C:\Users\sachin.yadav\source\repos\aspCoreWebApp\aspCoreWebApp\obj\Debug\net5.0\aspCoreWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sachin.yadav\source\repos\aspCoreWebApp\aspCoreWebApp\obj\Debug\net5.0\aspCoreWebApp.AssemblyInfoInputs.cache
+C:\Users\sachin.yadav\source\repos\aspCoreWebApp\aspCoreWebApp\obj\Debug\net5.0\aspCoreWebApp.AssemblyInfo.cs
+C:\Users\sachin.yadav\source\repos\aspCoreWebApp\aspCoreWebApp\obj\Debug\net5.0\aspCoreWebApp.csproj.CoreCompileInputs.cache
+C:\Users\sachin.yadav\source\repos\aspCoreWebApp\aspCoreWebApp\obj\Debug\net5.0\aspCoreWebApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sachin.yadav\source\repos\aspCoreWebApp\aspCoreWebApp\obj\Debug\net5.0\aspCoreWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sachin.yadav\source\repos\aspCoreWebApp\aspCoreWebApp\obj\Debug\net5.0\aspCoreWebApp.RazorAssemblyInfo.cache
+C:\Users\sachin.yadav\source\repos\aspCoreWebApp\aspCoreWebApp\obj\Debug\net5.0\aspCoreWebApp.RazorAssemblyInfo.cs
