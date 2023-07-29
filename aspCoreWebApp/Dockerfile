@@ -14,16 +14,18 @@ WORKDIR /src
 
 # Copy the project file and restore dependencies
 COPY ["./aspCoreWebApp/aspCoreWebApp.csproj", "aspCoreWebApp/"]
+
 RUN dotnet restore "aspCoreWebApp/aspCoreWebApp.csproj"
 
 # Copy the rest of the source code and build the application
 COPY . .
 WORKDIR "/src/aspCoreWebApp"
-RUN dotnet build "./aspCoreWebApp/aspCoreWebApp.csproj" -c Release -o /app/build
+
+RUN dotnet build "aspCoreWebApp.csproj" -c Release -o /app/build
 
 # Stage 3: Publish Image
 FROM build AS publish
-RUN dotnet publish "./aspCoreWebApp/aspCoreWebApp.csproj" -c Release -o /app/publish
+RUN dotnet publish "aspCoreWebApp.csproj" -c Release -o /app/publish
 
 # Stage 4: Final Image
 FROM base AS final
